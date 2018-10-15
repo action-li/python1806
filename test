@@ -1,0 +1,8 @@
+1 new repository 创建仓库
+2 填写仓库名字  不能重复
+3 选择ignore 文件为python文件
+4 选择apache文件
+5 回车
+6 打开pycharm  file -- settings -- version control --github--
+7 填写  主机  用户名  密码  回车
+
